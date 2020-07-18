@@ -1,0 +1,12 @@
+Name = "Tech Aware"
+
+# Supports markdown
+About = "A simple blog with emphasis on Cyber Security"
+
+Email = ""
+
+# Add the filename with file extension.
+Resume = ""
+
+# Sets the number of posts to display on the front page
+PostLimit = 4
