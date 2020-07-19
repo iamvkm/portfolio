@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://techaware.netlify.app/"
 languageCode = "en-us"
-title = ""
+title = "Tech Aware"
 theme = "lekh"
