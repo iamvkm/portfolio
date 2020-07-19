@@ -28,7 +28,7 @@ This might be the easiest way for you if you have [Telegram Messenger](https://p
 
 ## Shows & Movies
 
-I promise, you won't have to subscribe to Netflix anymore :wink:
+I promise, you won't have to subscribe to Netflix anymore.
 
 #### [Popcorn Time](https://popcorntime.sh/)
 
