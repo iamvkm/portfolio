@@ -58,6 +58,6 @@ For the courses you don't find in FCC (which I think you should), you'll probabl
 
 ## Final Note
 
-I am in no way in contract with owners of these Apps & Websites. These are my own researches which I've listed to help you save your money and become a little Tech Savy! Enjoy! :innocent:
+I am in no way in contract with owners of these Apps & Websites. These are my own researches which I've listed to help you save your money and become a little Tech Savy! Enjoy!
 
 Let me know your thoughts in comment section below!
