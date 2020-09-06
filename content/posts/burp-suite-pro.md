@@ -19,9 +19,9 @@ After you have downloaded both the files, follow these steps:
 
 2. Search `environment` in the Windows search bar. You will see a match for `Edit the system environment variables`. Open it and then click `Environment Variables` button in the bottom.
 
-You will see a window containing a part like this:
+   You will see a window containing a part like this:
 
-![Environment Variables](https://www.linkpicture.com/q/variables.png)
+   ![Environment Variables](https://www.linkpicture.com/q/variables.png)
 
 3. Under the System variables tab, click `New` and add the following variables:
 
