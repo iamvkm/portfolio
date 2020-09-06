@@ -15,53 +15,57 @@ Things that you will need:
 
 After you have downloaded both the files, follow these steps:
 
-1. Run the downloaded file `jdk-13.0.2_windows-x64_bin.exe` and let it install.
+- Run the downloaded file `jdk-13.0.2_windows-x64_bin.exe` and let it install.
 
-2. Search `environment` in the Windows search bar. You will see a match for `Edit the system environment variables`. Open it and then click `Environment Variables` button in the bottom.
+- Search `environment` in the Windows search bar. You will see a match for `Edit the system environment variables`. Open it and then click `Environment Variables` button in the bottom.
 
-   You will see a window containing a part like this:
+  You will see a window containing a part like this:
 
-   ![Environment Variables](https://www.linkpicture.com/q/variables.png)
+  ![Environment Variables](https://www.linkpicture.com/q/variables.png)
 
-3. Under the System variables tab, click `New` and add the following variables:
+Under the System variables tab, click `New` and add the following variables:
 
-   `Variable name: CLASSPATH`
+`Variable name: CLASSPATH`
 
-   `Variable value: C:\Program Files\Java\jdk-13.0.2\lib\*.jar`
+`Variable value: C:\Program Files\Java\jdk-13.0.2\lib\*.jar`
 
-4. Click OK. Then click `New` again and add another variable:
+---
 
-   `Variable name: JAVA_HOME`
+Click OK. Then click `New` again and add another variable:
 
-   `Variable value: C:\Program Files\Java\jdk-13.0.2`
+`Variable name: JAVA_HOME`
 
-5. Finally, double click the `Path` variable and click `New`. Add the following path:
+`Variable value: C:\Program Files\Java\jdk-13.0.2`
 
-   `C:\Program Files\Java\jdk-13.0.2\bin`
+---
 
-6. Click OK and close Variables Window. You are half way there.
+Finally, double click the `Path` variable and click `New`. Add the following path:
+
+`C:\Program Files\Java\jdk-13.0.2\bin`
+
+Click OK and close Variables Window. You are half way there.
 
 ---
 
 Now extract the downlaoded `BurpSuite_Pro_2020.9.zip`. Use the password: 311138 if prompted. You will see three `.jar` files and one `.txt` file. Open the folder.
 
-1. Press and hold Shift key and right click on the screen. Click open `Command Prompt` or `Windows Powershell` window here.
-2. Paste and run the following command:
+- Press and hold Shift key and right click on the screen. Click open `Command Prompt` or `Windows Powershell` window here.
+- Paste and run the following command:
 
-   `"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.7.jar`
+  `"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.7.jar`
 
-3. Follow the instructions to install Burp Suite.
-4. When you reach the License activation page, open a new Command Prompt window and run the following command:
+- Follow the instructions to install Burp Suite.
+- When you reach the License activation page, open a new Command Prompt window and run the following command:
 
-   `java -jar burploader-old.jar`
+  `java -jar burploader-old.jar`
 
-5. You will see the following window:
+- You will see the following window:
 
 ![Burp Suite License Activation Window](https://www.linkpicture.com/q/activation.png)
 
-6. Copy the text in License box and paste it in your installation window.
-7. Copy the Activation Request key and paste it in the above shown window to get the Activation Response key.
-8. Paste the Response key in the installation window and you are done!
+- Copy the text in License box and paste it in your installation window.
+- Copy the Activation Request key and paste it in the above shown window to get the Activation Response key.
+- Paste the Response key in the installation window and you are done!
 
 ---
 
