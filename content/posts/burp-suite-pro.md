@@ -52,7 +52,7 @@ Now extract the downlaoded `BurpSuite_Pro_2020.9.zip`. Use the password: 311138 
 - Press and hold Shift key and right click on the screen. Click open `Command Prompt` or `Windows Powershell` window here.
 - Paste and run the following command:
 
-  `"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.7.jar`
+  `"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.9.jar`
 
 - Follow the instructions to install Burp Suite.
 - When you reach the License activation page, open a new Command Prompt window and run the following command:
