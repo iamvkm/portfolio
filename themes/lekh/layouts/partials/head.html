@@ -1,13 +1,26 @@
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=UA-133160807-4"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "UA-133160807-4");
+  </script>
+
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/css/style.css" />
   <link rel="stylesheet" href="/css/fonts.css" />
   <!-- End stylesheets -->
-  <title>
-    {{ .Site.Data.personalize.Name }}
-  </title>
+  <title>{{ .Site.Data.personalize.Name }}</title>
   <!-- <link rel="icon" type="image/png" href="/assets/img/favicon.ico" /> -->
   <link
     rel="stylesheet"
@@ -35,9 +48,9 @@
   <meta name="classification" content="Blog" />
 
   <meta name="distribution" content="global" />
-  <meta name="author" content="Vivek Mishra" />
+  <meta name="author" content="Vivek Mishra / Khaleeq Ahmed" />
 
-  <meta name="theme-color" content="#50d8af" />
+  <meta name="theme-color" content="#b36d30" />
 
   <!-- Fevicon -->
   <link
@@ -46,4 +59,9 @@
     type="image/x-icon"
   />
   <link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
+  <link
+    rel="shortcut icon"
+    href="/assets/img/favicon.ico"
+    type="image/x-icon"
+  />
 </head>
