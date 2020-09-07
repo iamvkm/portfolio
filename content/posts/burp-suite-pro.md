@@ -1,5 +1,5 @@
 ---
-title: "How to install Burp Suite Professional for free on Windows."
+title: "How to install Burp Suite Professional for free on Windows"
 date: 2020-09-06T21:19:22+05:30
 draft: false
 ---
