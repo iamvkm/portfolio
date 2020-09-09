@@ -55,7 +55,7 @@ Now extract the downlaoded `BurpSuite_Pro_2020.9.zip`. Use the password: 311138 
   `java -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.9.jar`
 
 - Follow the instructions to install Burp Suite.
-- When you reach the License activation page choose Manual Activation, open a new Command Prompt window and run the following command:
+- When you reach the License activation page, open a new Command Prompt window again in the same folder and run the following command:
 
   `java -jar burploader-old.jar`
 
@@ -63,9 +63,18 @@ Now extract the downlaoded `BurpSuite_Pro_2020.9.zip`. Use the password: 311138 
 
 ![Burp Suite License Activation Window](https://www.linkpicture.com/q/activation.png)
 
-- Copy the text in License box and paste it in your installation window.
-- Copy the Activation Request key and paste it in the above shown window to get the Activation Response key.
+- Copy the text in License box and paste it in your installation window and hit Next.
+- Select Manual Activation, copy the Activation Request key and paste it in the above shown window to get the Activation Response key.
 - Paste the Response key in the installation window and you are done!
+
+#### How to open the installed Burp Suite Pro?
+
+- Open Notepad and paste the following command in it:
+
+  `java -javaagent:BurpSuiteLoader_v2020.9.jar -noverify -jar burpsuite_pro_v2020.9.jar`
+
+- Now save the file as Burp.bat
+- Open that file whenever you want to open Burp.
 
 ---
 
