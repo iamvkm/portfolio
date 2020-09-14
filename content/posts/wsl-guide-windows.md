@@ -12,30 +12,43 @@ Before we get started, update your machine. You need to be running on Windows 10
 
 #### Method I - Using GUI
 
-Search for Windows Features in and check the Windows Subsystem for Linux and Virtual Machine Platform.
+Search for `Windows Features` in your PC and check the `Windows Subsystem for Linux` and `Virtual Machine Platform` options ticked.
 
 ![Windows Features](https://www.linkpicture.com/q/Screenshot-103.png)
 
-Restart your machine.
+Now restart your machine.
 
 #### Method II - Using Powershell
 
-Open power shell in administrator and type the following...
+Open PowerShell as an Administrator and run the following commands:
+
+---
+
+To enable Windows Subsystem for Linux:
 
 `dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart`
-this will enable Windows Subsystem for Linux and restart the machine
+
+Now restart your machine.
+
+---
+
+To enable Virtual Machine Platform:
 
 `dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart`
-this will enable Virtual Machine Platform and restart the machine
+
+Restart your machine again.
+
+---
+
+To set WSL2 as your default version:
 
 `wsl --set-default-version 2`
-this will set wsl 2 as your default version
+
+---
 
 ### Installing Kali
 
-Install Kali from the [Microsoft Store](https://aka.ms/wslstore), download and install it.
-Open the Kali system from the start menu.
-Add a new user and set up the password...
+Download and Install Kali from the [Microsoft Store](https://aka.ms/wslstore). Open the installed app from the Start menu. Add a new User and set up a Password as shown in the screenshot below -
 
 ![Kali on Windows 10](https://www.linkpicture.com/q/Screenshot-108.png)
 
@@ -43,17 +56,28 @@ You are halfway there, you have successfully installed kali using WSL.
 
 ### Configuring Kali (Setting up a GUI)
 
-Now let us Install the Desktop Environment (win-kex)
-Open kali terminal and run the commands
+Now let us Install the Desktop Environment (win-kex).
+Open Kali terminal and run the following commands:
+
+---
+
+To update the Kali repositories:
 
 `sudo apt update`
-To update the kali repositories
+
+---
+
+To install the updates available for Kali:
 
 `sudo apt upgrade`
-To install the updates available for kali
+
+---
+
+To install the win-kex (Kali Desktop Experience for Windows):
 
 `sudo apt install kali-win-kex`
-To install the win-kex (Kali Desktop Experience for Windows)
+
+---
 
 Note: If you get error while installing `kali-win-kex` then make sure you have enabled `Virtual Machine Platform` and are using Kali in WSL2 and not WSL1.
 
@@ -65,5 +89,5 @@ You are Done! That is it, you are all set.
 
 ![Kali on windows 10](https://www.linkpicture.com/q/Screenshot-130.png)
 
-If you want to install the complete kali by running the command, this is 'optional' and you can do it if you have space.
+If you want to install the complete kali by running the command, this is 'optional' and you can do it if you have space:
 `sudo apt install kali-linux-large`
