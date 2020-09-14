@@ -1,3 +1,3 @@
 ### Tech Aware
 
-A simple blog with emphasis on Technology and Security.
+A simple blog to get people closer to technology, understand it better and learn ways to stay safer online.
