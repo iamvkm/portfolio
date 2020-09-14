@@ -83,11 +83,10 @@ Note: If you get error while installing `kali-win-kex` then make sure you have e
 
 ![Trubleshoot](https://www.linkpicture.com/q/Screenshot-135.png)
 
-Also, you can press F8 key to open VNC options and exit full screen!
+Now, run the command `kex` to install the GUI. It takes sometime. After it is installed, you can press F8 key to open VNC options and exit full screen!
 
-You are Done! That is it, you are all set.
+Congrats! You have Kali up and running:
 
 ![Kali on windows 10](https://www.linkpicture.com/q/Screenshot-130.png)
 
-If you want to install the complete kali by running the command, this is 'optional' and you can do it if you have space:
-`sudo apt install kali-linux-large`
+If you want to install complete Kali, you can do so by running the command `sudo apt install kali-linux-large`. This step is optional. You can do it if you need it and have enough space.
