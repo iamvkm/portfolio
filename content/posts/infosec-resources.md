@@ -8,9 +8,9 @@ I am trying to put every useful resource I have personally come across on the In
 
 ## General
 
-- [Penetration Testing Career](https://www.quora.com/Is-penetration-testing-a-rewarding-career)
-- [Media Resources To Follow](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/media.md)
-- [Common Web Vulnerabilities](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/)
+- [The Career](https://www.quora.com/Is-penetration-testing-a-rewarding-career)
+- [Media Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/media.md)
+- [Web Vulnerabilities](https://sucuri.net/guides/owasp-top-10-security-vulnerabilities-2020/)
 - [Learn & Practice](https://portswigger.net/web-security/all-materials)
 
 ## Bug Bounty
