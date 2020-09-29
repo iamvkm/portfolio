@@ -40,9 +40,9 @@ Step 2: Download a Recovery image file for your device. I recommend [TWRP](https
 
 Step 3: Now, press Shift and Right Click on your mouse at any empty location in the folder. Select the option `Open Command Windows Here` and it will open the command prompt.
 
-Step 4: Connect your device to PC via cable and type `adb reboot bootloader` in command prompt to boot your device in **Bootloader** mode. It will show a prompt asking for permission with a message `Allow USB debugging`, click OK to continue.
+Step 4: Connect your device to PC via cable and type `adb reboot bootloader` in command prompt to boot your device into `Bootloader` mode. Click OK if asked for `Allow USB debugging` to continue.
 
-Step 5: Now, come back to Command prompt & run `fastboot flash recovery twrp-xxx.img` and then `fastboot boot twrp-xxx.img` commands. Your device will boot into Recovery. Swipe right to _Allow modifications_, if prompted.
+Step 5: Come back to Command prompt & run `fastboot flash recovery twrp-xxx.img` and then `fastboot boot twrp-xxx.img` commands. Your device will boot into Recovery. Swipe right to _Allow modifications_, if prompted.
 
 ![TWRP Recovery](https://upload.wikimedia.org/wikipedia/commons/e/e0/TWRP_3.0.0-0.png)
 
@@ -70,4 +70,4 @@ Step 3: Install the `Magisk-vxx.x.zip` file similarly as you did the ROM file an
 
 ## 5. Enjoy your freedom!
 
-If you run into any problems in the way, [ping](https://t.me/vvekm) me.Stay tuned for some more tutorials in future like installing YouTube premium for free on your rooted device.
+If you run into any problems in the way, [ping](https://t.me/vvekm) me. Stay tuned for some more tutorials in future like installing YouTube premium for free on your rooted device.
