@@ -40,7 +40,7 @@ Step 2: Download a Recovery image file for your device. I recommend [TWRP](https
 
 Step 3: Now, press Shift and Right Click on your mouse at any empty location in the folder. Select the option ‘Open Command Windows Here’ & it will open the command prompt.
 
-Step 4: Now, before typing any command in command prompt, connect your Xiaomi device to PC via USB Cable. Prefer the original USB Cable if possible. Once connected, type `adb reboot bootloader` in command prompt to boot your Xiaomi device in bootloader mode. It will show a prompt asking for permission with a message ‘Allow USB debugging’, click OK to continue.
+Step 4: Connect your device to PC via cable and type `adb reboot bootloader` in command prompt to boot your device in `Bootloader` mode. It will show a prompt asking for permission with a message ‘Allow USB debugging’, click OK to continue.
 
 Step 5: Now, come back to Command prompt & run `fastboot flash recovery twrp-xxx.img` and then `fastboot boot twrp-xxx.img` commands. Your device will boot into Recovery. Swipe right to Allow modifications, if prompted.
 
