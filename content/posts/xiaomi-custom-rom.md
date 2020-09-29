@@ -26,7 +26,7 @@ Step 2: Download and extract [this](http://miuirom.xiaomi.com/rom/u1106245679/4.
 
 Step 3: Shut down your phone manually, then press and hold Volume down + Power button until your phone vibrates. This will take device into Fastboot mode.
 
-Step 3. Connect your phone to PC using USB cable and click `Unlock`. Remember - **all your data will be deleted after this.** Your Bootloader will be unlocked after this.
+Step 4. Connect your phone to PC using USB cable and click `Unlock`. Remember - **all your data will be deleted after this.** Your Bootloader will be unlocked after this.
 
 ---
 
@@ -52,11 +52,11 @@ Step 5: Come back to Command prompt & run `fastboot flash recovery twrp-xxx.img`
 
 Step 1: Download a ROM file for your device. I recommend [Havoc OS](https://t.me/Havoc_OS). Download the _Gapps_ verison if you want to install a Pixel like OS in your phone.
 
-Step 1: Go to `Wipe` then `Advanced Wipe`, select everything and swipe right to wipe.
+Step 2: Go to `Wipe` then `Advanced Wipe`, select everything and swipe right to wipe.
 
-Step 2: Connect device to PC again, and copy the downloaded zip file in your internal storage. If storage does not show up, go to `Mount` in TWRP and retick the internal storage option.
+Step 3: Connect device to PC again, and copy the downloaded zip file in your internal storage. If storage does not show up, go to `Mount` in TWRP and retick the internal storage option.
 
-Step 3: Eject the device, Go to `Install` option and select the ZIP file. Check `Reboot after installation is complete.`
+Step 4: Eject the device, Go to `Install` option and select the ZIP file. Check `Reboot after installation is complete.`
 
 Congrats! Your device will boot into the freshly installed OS.
 
