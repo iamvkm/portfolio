@@ -30,7 +30,7 @@ Step 3. Connect your phone to PC using USB cable and click `Unlock`. Remember - 
 
 ---
 
-## 2. Install custom Recovery
+## 2. Installing custom Recovery
 
 Follow the following steps:
 
@@ -48,7 +48,7 @@ Step 5: Now, come back to Command prompt & run `fastboot flash recovery twrp-xxx
 
 ---
 
-## 3. Flash ROM zip file
+## 3. Flashing ROM zip file
 
 Step 1: Download a ROM file for your device. I recommend [Havoc OS](https://t.me/Havoc_OS). Download the Gapps verison if you want to install a Pixel like OS in your phone.
 
@@ -60,7 +60,7 @@ Step 3: Eject the device, Go to `Install` option and select the ZIP file. Check 
 
 Congrats! Your device will boot into the freshly installed OS.
 
-## 4. Flash root zip file
+## 4. Flashing root zip file
 
 Step 1: Download the [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip) root zip.
 
