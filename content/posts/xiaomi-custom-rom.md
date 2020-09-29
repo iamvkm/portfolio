@@ -38,11 +38,11 @@ Step 1: Download and run [this](https://forum.xda-developers.com/attachment.php?
 
 Step 2: Download a Recovery image file for your device. I recommend [TWRP](https://twrp.me/Devices/Xiaomi/) Recovery. Click on `Primary (America)` link. Once downloaded, open the folder and rename it to _twrp-xxx.img_.
 
-Step 3: Now, press Shift and Right Click on your mouse at any empty location in the folder. Select the option ‘Open Command Windows Here’ & it will open the command prompt.
+Step 3: Now, press Shift and Right Click on your mouse at any empty location in the folder. Select the option `Open Command Windows Here` and it will open the command prompt.
 
-Step 4: Connect your device to PC via cable and type `adb reboot bootloader` in command prompt to boot your device in `Bootloader` mode. It will show a prompt asking for permission with a message ‘Allow USB debugging’, click OK to continue.
+Step 4: Connect your device to PC via cable and type `adb reboot bootloader` in command prompt to boot your device in `Bootloader` mode. It will show a prompt asking for permission with a message `Allow USB debugging`, click OK to continue.
 
-Step 5: Now, come back to Command prompt & run `fastboot flash recovery twrp-xxx.img` and then `fastboot boot twrp-xxx.img` commands. Your device will boot into Recovery. Swipe right to Allow modifications, if prompted.
+Step 5: Now, come back to Command prompt & run `fastboot flash recovery twrp-xxx.img` and then `fastboot boot twrp-xxx.img` commands. Your device will boot into Recovery. Swipe right to _Allow modifications_, if prompted.
 
 ![TWRP Recovery](https://upload.wikimedia.org/wikipedia/commons/e/e0/TWRP_3.0.0-0.png)
 
@@ -50,7 +50,7 @@ Step 5: Now, come back to Command prompt & run `fastboot flash recovery twrp-xxx
 
 ## 3. Flashing ROM zip file
 
-Step 1: Download a ROM file for your device. I recommend [Havoc OS](https://t.me/Havoc_OS). Download the Gapps verison if you want to install a Pixel like OS in your phone.
+Step 1: Download a ROM file for your device. I recommend [Havoc OS](https://t.me/Havoc_OS). Download the _Gapps_ verison if you want to install a Pixel like OS in your phone.
 
 Step 1: Go to `Wipe` then `Advanced Wipe`, select everything and swipe right to wipe.
 
@@ -64,10 +64,10 @@ Congrats! Your device will boot into the freshly installed OS.
 
 Step 1: Download the [Magisk](https://github.com/topjohnwu/Magisk/releases/download/v20.4/Magisk-v20.4.zip) root zip.
 
-Step 2: Press and hold all three buttons of your device until it vibrates and boot into the TWRP recovery.
+Step 2: Press and hold all three buttons of your device until it vibrates and boot into the `TWRP recovery`.
 
 Step 3: Install the `Magisk-vxx.x.zip` file similarly as you did the ROM file and reboot.
 
 ## 5. Enjoy your freedom!
 
-Stay tuned for some more tutorials like installing YouTube premium for free on your rooted device.
+Stay tuned for some more tutorials in future like installing YouTube premium for free on your rooted device.
