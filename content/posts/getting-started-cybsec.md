@@ -18,4 +18,4 @@ Cisco offers self paced course in cyber security for beginners, **Introduction t
 
 [Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
 
-If you find this interesting check out this out [Certified Linux Course For Free](techawarelink)
+If you find this interesting check out this out [Certified Linux Course For Free](https://techaware.netlify.app/posts/getting-started-cybsec/techawarelink)
