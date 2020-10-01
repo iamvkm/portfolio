@@ -1,5 +1,5 @@
 ---
-title: "Beginner guide to get started in Cyber-security"
+title: "Beginner guide to get your career started in Cyber-security"
 date: 2020-10-01T11:22:40+05:30
 draft: false
 ---

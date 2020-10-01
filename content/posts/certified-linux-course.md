@@ -1,5 +1,5 @@
 ---
-title: "Explore Certified Linux Courses for Beginners"
+title: "Explore free and certified Linux courses for beginners"
 date: 2020-10-01T10:55:54+05:30
 draft: false
 ---
