@@ -12,7 +12,7 @@ Before we get started, update your machine. You need to be running on Windows 10
 
 #### Method I - Using GUI
 
-Search for `Windows Features` in your PC and check the `Windows Subsystem for Linux` and `Virtual Machine Platform` options ticked.
+Search for (windows key + S) `Windows Features` in your PC and check the `Windows Subsystem for Linux` and `Virtual Machine Platform` options ticked.
 
 ![Windows Features](https://www.linkpicture.com/q/Screenshot-103.png)
 
