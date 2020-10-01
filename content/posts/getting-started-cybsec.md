@@ -1,5 +1,5 @@
 ---
-title: "Getting Started Cybsec"
+title: "Beginner guide to get started in Cyber-security"
 date: 2020-10-01T11:22:40+05:30
 draft: false
 ---
@@ -10,11 +10,11 @@ Intrested in cyber security and dont know where to start or is it even for you?
 
 Cisco offers self paced course in cyber security for beginners, **Introduction to Cybersecurity**. This course has five chapters and is for beginners looking to get started.
 
- - The Need for Cybersecurity
- - Attacks, Concepts and Techniques
- - Protecting Your Data and Privacy
- - Protecting the Organization
- -  Will Your Future Be in Cybersecurity?
+- The Need for Cybersecurity
+- Attacks, Concepts and Techniques
+- Protecting Your Data and Privacy
+- Protecting the Organization
+- Will Your Future Be in Cybersecurity?
 
 [Introduction to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)
 

@@ -6,7 +6,7 @@ draft: false
 
 I am trying to put every useful resource I have personally come across on the Internet about the Infosec industry, be it to learn, or to make money out of it. Have a look if you are interested.
 
-## Generally
+## General
 
 - [The Career](https://www.quora.com/Is-penetration-testing-a-rewarding-career)
 - [Media Resources](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/media.md)
