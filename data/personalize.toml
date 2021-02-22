@@ -1,12 +1,27 @@
-Name = "Tech Aware"
+Name = "Vivek Mishra"
 
 # Supports markdown
-About = "A simple open source Blog to get people closer to technology, understand it better and learn ways to stay safer online. Contribute to this on [GitHub](https://github.com/iamvkm/techaware)"
+About = "Engineer from Bangalore, India! Love working with Web Technologies. For a change I write or binge watch. Tech might not be the only thing I write about here! Feel free to talk to me on [Telegram](https://t.me/vvekm)."
 
-Email = "send.query@protonmail.com"
+Email = "vivekhere01@gmail.com"
 
 # Add the filename with file extension.
 Resume = ""
 
 # Sets the number of posts to display on the front page
 PostLimit = 4
+
+[[profiles]]
+name = "GitHub"
+url = "https://github.com/iamvkm"
+
+[[profiles]]
+name = "Twitter"
+url = "https://twitter.com/iamvvekm"
+
+[[profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/iamvkm/"
+
+# This is the endpoint under the integrations section of the Site Code
+GoatCounterCode = ""
