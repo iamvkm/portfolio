@@ -1,5 +1,3 @@
-## Tech Aware
+## Vivek Mishra
 
-![image](/static/img/tech.png)
-
-A simple open source Blog to get people closer to technology, understand it better and learn ways to stay safer online.
+Engineer from Bangalore, India! Love working with Web Technologies. For a change I write or binge watch. Tech might not be the only thing I write about here! Feel free to talk to me on [Telegram](https://t.me/vvekm).
