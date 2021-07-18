@@ -54,7 +54,7 @@ And if you keep money invested for 1 more year, you will get ₹86,334 more on t
 
 Woah! You just lost almost 50% of your profit just because you started investing 36 months late. That is the power of time when money is compounding. If you got curious about this compound interest conecpt, I suggest you watch this video to know more about it - 
 
-{{< youtube LzBTY5vM11c >}}
+{{< youtube EjWIzh-r6nI >}}
 
 Hope this made you think about how much important role time plays here, and how much you could loose just by not starting investing early!
 
