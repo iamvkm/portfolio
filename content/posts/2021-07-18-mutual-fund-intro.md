@@ -1,6 +1,6 @@
 ---
-title: "What are mutual funds and why should you care about them?"
-date: 2021-07-18T21:09:54+05:30
+title: "2021 07 18 Mutual Fund Intro"
+date: 2021-07-18T17:28:55+05:30
 draft: false
 ---
 
