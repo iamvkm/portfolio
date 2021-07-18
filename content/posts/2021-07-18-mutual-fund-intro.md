@@ -1,5 +1,5 @@
 ---
-title: "2021 07 18 Mutual Fund Intro"
+title: "What are Index mutual funds and why should you care about them?"
 date: 2021-07-18T17:28:55+05:30
 draft: false
 ---
@@ -56,7 +56,7 @@ Hope this made you think about how much important role time plays here, and how 
 
 ### Okay, where should I invest?
 
-I suggest you invest in [HDFC Nifty 50 Mutual Fund](https://www.hdfcfund.com/our-products/hdfc-index-fund-nifty-50-plan) which has given a minimum of 13% return in a year. It is run by the largest bank of India hence is trust-worthy. I invest my money in it.
+I suggest you invest in [HDFC Nifty 50 Index Mutual Fund](https://www.hdfcfund.com/our-products/hdfc-index-fund-nifty-50-plan) which has given a minimum of 13% return in a year. It is run by the largest bank of India hence is trust-worthy. I invest my money in it.
 
 ![HDFC Nifty 50 Fund](https://i.ibb.co/W2kDBzp/hdfc-fund.png)
 
