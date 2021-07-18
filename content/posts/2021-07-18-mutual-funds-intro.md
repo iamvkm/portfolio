@@ -6,7 +6,7 @@ draft: false
 
 ### What are mutual funds?
 
-Let me tell you this in lame simple words. There is a person who is professionally called Fund Manager. Suppose he has 1000 customers. These customers could be anyone, a student, a housewife, a business-man, a waiter or anyone.
+Let me tell you this in lame simple words. There is a person who is professionally called Fund Manager. Suppose he has 1000 customers. These customers could be anyone, a student, a housewife, a business-man, a waiter or anyone else.
 
 Now he takes some amount of money from all of them every month. Say a student gives ₹500, housewife gives ₹1000, waiter gives ₹100, and so on. And collecting all of it, the Fund Manager has say ₹5,00,000 rupees. Now this manager would put this money into stock market.
 
@@ -26,7 +26,7 @@ Now even though any 1 or say 10 companies out of these 50 are not performing wel
 
 ![Nifty 50 Last 5 Years](https://i.ibb.co/fFFtbSw/nifty-50-five.png)
 
-As you can see, even during initial pandemic lockdown in March 2020, the market went down and balanced back up again. On an average, you can expect a 15~17% return on your money every year from Nifty 50 market.
+As you can see, even during initial pandemic lockdown in March 2020, the market went down and balanced back up again. On an average, you can expect a 15~17% return on your money every year from Nifty 50 market. So you shall start a monthly SIP of your desired amount which eventually gets invested in this Nifty 50 Index.
 
 ### How is it better than Bank Fixed Deposits?
 
@@ -70,6 +70,6 @@ I suggest you invest in [HDFC Nifty 50 Index Mutual Fund](https://www.hdfcfund.c
 
 ### How exactly do I invest?
 
-You will need a demat account. It is generated from an existing bank account and in a complete online process. Open it in notable names like Zerodha, Upstox or Paytm Money. You can find tons of YouTube videos about how to open a demat account.
+You will need a demat account. It is generated from an existing bank account and in a complete online process. Open it in any of the notable names like Zerodha, Upstox or Paytm Money. You can find tons of YouTube videos about how to open a demat account and start an SIP in any Mutual Fund.
 
 I personally use Paytm money. I will write future articles on How to open monthly SIP if I feel the need. Stay tuned! Hope I added some value to your life. Keep investing! 😊
