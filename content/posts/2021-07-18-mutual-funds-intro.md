@@ -28,6 +28,10 @@ Now even though any 1 or say 10 companies out of these 50 are not performing wel
 
 As you can see, even during initial pandemic lockdown in March 2020, the market went down and balanced back up again. On an average, you can expect a 15~17% return on your money every year from Nifty 50 market.
 
+### How is it better than Bank Fixed Deposits?
+
+Our India has an inflation rate of 8% which means every year, price of each item goes up by 8% of the existing price, and no bank in India gives more than 5% interest on FDs, so logically, you make a loss of 3% every year by giving your money in FDs. Give it a thought.
+
 ### How much money will I make?
 
 Let us do some calculations. Say you are 20 years old now and decide to put ₹500 every month until you are 45 years of age (for 25 years). Here is the breakdown of the money :
