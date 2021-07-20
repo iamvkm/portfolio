@@ -26,7 +26,7 @@ Now even though any 1 or say 10 companies out of these 50 are not performing wel
 
 ![Nifty 50 Last 5 Years](https://i.ibb.co/fFFtbSw/nifty-50-five.png)
 
-As you can see, even during initial pandemic lockdown in March 2020, the market went down and balanced back up again. On an average, you can expect a 15~17% return on your money every year from Nifty 50 market. So you shall start a monthly SIP of your desired amount which eventually gets invested in this Nifty 50 Index.
+As you can see, even during initial pandemic lockdown in March 2020, the market went down and balanced back up again. On an average, you can expect a 15~17% return on your money every year from Nifty 50 market. So you shall start a monthly SIP in an Index fund which eventually gets invested in this Nifty 50 Index.
 
 ### How is it better than Bank Fixed Deposits?
 
@@ -52,7 +52,7 @@ And if you keep money invested for 1 more year, you will get ₹86,334 more on t
 	Total money received : ₹23,65,277
 	Profit you made : ₹22,33,277 🙁
 
-Woah! You just lost almost 50% of your profit just because you started investing 36 months late. That is the power of time when money is compounding. If you got curious about this compound interest conecpt, I suggest you watch this video to know more about it - 
+Woah! You just lost almost 50% of your profit just because you started investing 36 months late. That is the power of time when money is compounding. If you got curious about how the money grows at such an enormous rate during compounding, I suggest you watch this video to know more about it - 
 
 {{< youtube EjWIzh-r6nI >}}
 
